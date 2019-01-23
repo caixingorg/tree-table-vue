@@ -2,7 +2,7 @@
 
 > A table(with tree-grid) component development based on tree-table-vue [@lison16](https://github.com/lison16/tree-table-vue/))
 
-> **在tree-table-vue 换了一个opened/close 的 icon 字体 （审美标准各有差异 所以重新建一个）
+> **在tree-table-vue 换了一个opened/close 的 icon 字体 （审美标准各有差异 所以重新建一个）  然后修复了一个双击 row  报错问题
 
 > **在vue-table-with-tree-grid v0.2.4版本基础上，修复了vue新版本对重复key检测造成的警告**
 
