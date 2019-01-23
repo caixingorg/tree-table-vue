@@ -99,7 +99,7 @@ export default {
           _isHover: hover,
         });
       }
-      if (certainType.row && others.clickRow) {
+      if (certainType.row && others && others.clickRow) {
         this.radioSelectedIndex = rowIndex;
         return this.table.$emit('radio-click', { row, rowIndex, column, columnIndex, $event });
       }
