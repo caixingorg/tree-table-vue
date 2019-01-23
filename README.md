@@ -1,4 +1,4 @@
-# tree-table-vue-new
+# tree-table-vue
 
 > A table(with tree-grid) component development based on tree-table-vue [@lison16](https://github.com/lison16/tree-table-vue/))
 
@@ -19,7 +19,7 @@
 Use npm:
 
 ```shell
-npm i tree-table-vue-new -S
+npm i tree-table-vue -S
 ```
 
 
