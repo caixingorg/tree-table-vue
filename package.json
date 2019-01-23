@@ -1,5 +1,5 @@
 {
-  "name": "tree-table-vue",
+  "name": "tree-table-vue-new",
   "version": "1.1.0",
   "description": "A table (with tree-grid) component for Vue.js 2.0. (Its style extends iView)",
   "keywords": [
@@ -9,12 +9,12 @@
     "vue-component",
     "vue-jsx"
   ],
-  "author": "Lison<lison16new@163.com>",
-  "homepage": "https://github.com/lison16/tree-table-vue",
-  "bugs": "https://github.com/lison16/tree-table-vue/issues",
+  "author": "lyw90<dylan.5u@163.com>",
+  "homepage": "https://github.com/lyw90/tree-table-vue",
+  "bugs": "https://github.com/lyw90/tree-table-vue/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lison16/tree-table-vue"
+    "url": "https://github.com/lyw90/tree-table-vue"
   },
   "main": "lib/tree-table-vue.js",
   "files": [
