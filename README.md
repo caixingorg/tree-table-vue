@@ -16,12 +16,7 @@
 
 ## Installation
 
-Use npm:
-
-```shell
-npm i tree-table-vue -S
-```
-
+直接 clone  安装 
 
 
 ## Usage
